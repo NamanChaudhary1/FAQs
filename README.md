@@ -2,4 +2,4 @@
 
 Implementation of FAQs section's functionality
 
-Link:
+Link: https://namanchaudhary1.github.io/FAQs/
